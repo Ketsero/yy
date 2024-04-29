@@ -43,4 +43,4 @@
 <p style="text-align:center"><a style="color:white; background-color:black; text-decoration: none; border: 1px solid white; border-radius: 10px; font-size: 20px;padding: 5px;" href="https://uk.m.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F">Докладніше</a></p>
 </main>
 </body>
-</html>
+</html>>
